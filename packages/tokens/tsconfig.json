@@ -1,0 +1,4 @@
+{
+  "extends": "@killercf-ui/ts-config/base.json",
+  "include": ["src"]
+}

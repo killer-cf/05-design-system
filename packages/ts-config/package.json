@@ -1,0 +1,6 @@
+{
+  "name": "@killercf-ui/ts-config",
+  "main": "index.js",
+  "license": "ISC",
+  "private": true
+}
