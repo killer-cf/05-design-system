@@ -22,12 +22,14 @@
     "@storybook/testing-library": "^0.0.13",
     "@vitejs/plugin-react": "^3.1.0",
     "babel-loader": "^8.3.0",
+    "polished": "^4.2.2",
     "vite": "^4.2.0"
   },
   "dependencies": {
+    "@killercf-ui/eslint-config": "*",
+    "@killercf-ui/ts-config": "*",
     "@killercf-ui/react": "*",
     "@killercf-ui/tokens": "*",
-    "@killercf-ui/eslint-config": "*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
