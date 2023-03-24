@@ -2,7 +2,7 @@ import type { StoryObj, Meta } from '@storybook/react'
 import { Heading, HeadingProps } from '@killercf-ui/react'
 
 export default {
-  title: 'Typogra/Heading',
+  title: 'Typography/Heading',
   component: Heading,
   args: {
     children: 'Custom Title',
