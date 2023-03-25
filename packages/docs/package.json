@@ -27,9 +27,10 @@
   },
   "dependencies": {
     "@killercf-ui/eslint-config": "*",
-    "@killercf-ui/ts-config": "*",
     "@killercf-ui/react": "*",
     "@killercf-ui/tokens": "*",
+    "@killercf-ui/ts-config": "*",
+    "@storybook/addon-a11y": "^6.5.16",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
