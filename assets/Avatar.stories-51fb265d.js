@@ -1,0 +1,2 @@
+import{A as t}from"./index-57b07c43.js";import"./index-b1e9a591.js";import"./iframe-24f9898f.js";import"./index-37b5ef24.js";import"./jsx-runtime-d30d6bbd.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/killer-cf.png",alt:"Kilder Costa"},argTypes:{src:{control:{type:"text"}}}},p={},e={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,e as WithFallback,l as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories-51fb265d.js.map
